@@ -1,0 +1,9 @@
+name,age,experience,salary,company
+deadpool,65,2,10000000,marvel
+spiderman,20,7,5000000,marvel
+captain,120,3,20000000,marvel
+batman,50,2,10000000,dc
+black widow,40,6,,marvel
+superman,,,5000000,dc
+womder woman,35,,,dc
+wanda,,3,10000000,marvel
